@@ -4,14 +4,31 @@
 ```2025/11/13 ~```  
 영상과 MIDI 파일을 입력하면 영상의 피치를 조절해서 뮤직비디오로 만들어 주는 프로그램 입니다.  
 
-### 사용예시
+### 사용예시 (소리를 켜주세요)
 처리전
+
+
+https://github.com/user-attachments/assets/787c194f-cd08-49f6-b017-df560cd9bcd1
+
 
 처리후
 
+
+https://github.com/user-attachments/assets/d4c803f0-01f0-4ac7-8407-ac6f1294efee
+
+
 처리전
 
+
+https://github.com/user-attachments/assets/a15dc16a-c64b-482c-8888-8583f693bc83
+
+
 처리후
+
+
+https://github.com/user-attachments/assets/8c8f985f-fefc-40eb-a5d3-8c13498bbea0
+
+
 
 ### 준비물
 1. 1:1 비율의 .mp4 영상
