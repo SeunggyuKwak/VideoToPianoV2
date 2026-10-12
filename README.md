@@ -4,14 +4,30 @@
 ```11/13/2025 ~```  
 This program takes a video and a MIDI file as input and adjusts the pitch of the video to create a music video.  
 
-### Usage Examples
+### Usage Examples (Please turn on the sound.)
 Before processing
+
+
+https://github.com/user-attachments/assets/787c194f-cd08-49f6-b017-df560cd9bcd1
+
 
 After processing
 
+
+https://github.com/user-attachments/assets/d4c803f0-01f0-4ac7-8407-ac6f1294efee
+
+
 Before processing
 
+
+https://github.com/user-attachments/assets/a15dc16a-c64b-482c-8888-8583f693bc83
+
+
 After processing
+
+
+https://github.com/user-attachments/assets/8c8f985f-fefc-40eb-a5d3-8c13498bbea0
+
 
 ### Requirements
 1. A .mp4 video with a 1:1 aspect ratio
