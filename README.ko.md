@@ -21,7 +21,7 @@
 파이썬 3.13 이하의 버전이 설치되어있어야 합니다.
 
 #### 초기설정
-1. ```git clone https://github.com/SeunggyuKwak/VideoToPianoV2``` 또는 릴리즈에서 ```Source code``` 다운로드
+1. ```git clone https://github.com/SeunggyuKwak/VideoToPianoV2``` 또는 릴리즈에서 ```Source code.zip``` 다운로드
 2. ```pip install -r requirements.txt```
 
 #### 영상 처리

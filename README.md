@@ -6,10 +6,8 @@ This program takes a video and a MIDI file as input and adjusts the pitch of the
 
 ### Usage Examples
 Before processing
-https://github.com/user-attachments/assets/aad3e264-61cb-45fb-9bb1-531201c3b3a9
 
 After processing
-
 
 Before processing
 
